@@ -1,4 +1,4 @@
-### 🌻 Hello World, I'm Giulia 👋 
+# 🌻 Hello World, I'm Giulia 👋 
 
 A Full-Stack Developer having trouble keeping my Github updated, but I love working as a dev and I've been working in the area in the last 4 years. Some times I do some design jobs freelancer.
 
