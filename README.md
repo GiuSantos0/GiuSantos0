@@ -4,9 +4,9 @@ A Full-Stack Developer having trouble keeping my Github updated, but I love work
 
 ## 📍 Find me
 
-![https://www.linkedin.com/in/giulia-santos-7a096a156/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://www.behance.net/GiuliaFerreiraa](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)
-![https://www.facebook.com/sparkarhub/portfolios/ig/giu.ferreira_](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=SparkAR&logoColor=white)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulia-santos-7a096a156/)
+[![](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/GiuliaFerreiraa)
+[![](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=SparkAR&logoColor=white)](https://www.facebook.com/sparkarhub/portfolios/ig/giu.ferreira_)
 
 ## 👩🏼‍💻 Tehcnologies and Tools
 
